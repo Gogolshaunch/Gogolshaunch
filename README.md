@@ -1,4 +1,7 @@
-# Привет!
+<div align="center">
+  <h2>Код. Дизайн. Продукт.</h2>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7E3ACE&center=true&vCenter=true&width=435&lines=Python+%7C+C%2B%2B+%7C+Data+Science;Telegram+Bots;3D+Artist+%26+Graphic+Designer" alt="Typing SVG" />
+</div>
 
 Я занимаюсь полным циклом разработки: от идеи на салфетке до готового продукта. Но разработка телеграмм ботов - это то, что приносит мне истинное удовольствие.
 
